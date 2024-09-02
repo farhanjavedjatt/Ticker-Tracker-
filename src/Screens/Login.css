@@ -1,0 +1,23 @@
+/* Login.css */
+.container-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+  }
+  
+  .custom-card-width {
+    width: 100%;
+    max-width: 1000px;
+  }
+  
+
+  .form-95 {
+    width: 100%;
+  }
+
+  .custom-card-width2 {
+    width: 110%;
+    max-width: 1000px;
+  }
+  

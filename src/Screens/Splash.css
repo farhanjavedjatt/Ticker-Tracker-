@@ -1,0 +1,13 @@
+.splash-screen {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: teal; /* You can change the background color */
+  }
+  
+  .splash-screen img {
+    max-width: 100%;
+    height: auto;
+  }
+  
